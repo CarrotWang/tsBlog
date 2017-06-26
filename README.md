@@ -1,11 +1,11 @@
 # tsBlog
 typescript express sequelize 
 
-##Compile
-'''
+## Compile
+```
 gulp compile
-'''
-##start
-'''
+```
+## start
+```
 npm start -- --example="sequelize-express"
-'''
+```
