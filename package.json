@@ -1,7 +1,7 @@
 {
-  "name": "sequelize-typescript-examples",
+  "name": "tsBlog",
   "version": "0.0.1",
-  "description": "Sequelize examples in TypeScript",
+  "description": "Express Sequelize tsBlog in TypeScript",
   "author": "Suksant Sae Lor (Hui) <suksant@gmail.com>",
   "scripts": {
     "clean": "gulp clean",
